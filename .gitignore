@@ -1,3 +1,8 @@
+
+Nu pune in repository folderele unde se afla clasele compilate
+build/
+bin/
+
 # Compiled class file
 *.class
 
